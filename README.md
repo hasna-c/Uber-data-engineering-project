@@ -10,7 +10,7 @@ This project focuses on building a data pipeline to analyze Uber's dataset and c
 The dataset used in this project is sourced from NYC OpenData and contains trip records from yellow taxis in NYC for the period of January to June 2016. These records are submitted by Technology Service Providers (TSPs), including Uber, Lyft, and others, operating in New York City. The dataset includes information such as pick-up and drop-off dates/times, locations, trip distances, fares, rate types, payment types, and passenger counts.
 
 * website : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-* Raw data : 
+* Raw data : https://github.com/hasna-c/uber-data-engineering-project/blob/master/uber_data.csv
 
 ## Tools & Technologies
 
