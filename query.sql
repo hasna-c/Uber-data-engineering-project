@@ -28,4 +28,4 @@ JOIN uber-data-project-389105.uber_data_engineering.rate_code_dim r ON r.rate_co
 JOIN uber-data-project-389105.uber_data_engineering.pickup_location_dim pick ON pick.pickup_location_id = f.pickup_location_id
 JOIN uber-data-project-389105.uber_data_engineering.dropoff_location_dim drop ON drop.dropoff_location_id = f.dropoff_location_id
 JOIN uber-data-project-389105.uber_data_engineering.payment_type_dim payment ON payment.payment_type_id = f.payment_type_id
-; 
+); 
