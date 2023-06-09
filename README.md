@@ -12,3 +12,7 @@ This project focuses on building a data pipeline to analyze Uber's dataset and c
 ## Data Model 
 
 ![datamodel](model.jpg)
+
+## Dashboard
+
+![dashboard](dashboard.jpg)
